@@ -98,5 +98,3 @@ bSkipMovies=False
 +IniSectionDenylist=StorageServers
 +MapsToCook=(FilePath="/Game/ThirdPerson/Maps/Lobby")
 
-[/Script/Engine.GameSession]
-MaxPlayers=100
